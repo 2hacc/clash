@@ -5,6 +5,8 @@ https://api.dler.io/sub?target=clash&new_name=true&url=https%3A%2F%2Fgetafreenod
 
 10G
 https://getafreenode.com/subscribe/?uuid=0E81849E-DC75-6643-1E8B-B934291A6D56
+每天10G
+https://www.dageyun2.com/
 
 https://raw.gitslow.tk/yu-steven/openit/main/Clash.yaml
 http://43.142.103.115:8888/down/ePFSC7ajgznY
