@@ -1,5 +1,4 @@
-我的云端硬盘
-=====Clash订阅:
+=====Clash订阅=====
 ★★★★★
 https://getafreenode.com/subscribe/?uuid=0E81849E-DC75-6643-1E8B-B934291A6D56
 https://pre.paimon.gq/clash.yaml
@@ -19,7 +18,7 @@ http://43.142.103.115:8888/down/ePFSC7ajgznY
 
 最快（需要转换）
 http://file.52nfw.cn/word/obtain.php?user=111111&id=1
-装换：
+转换：
 https://sub.789.st/sub?target=clash&url=http%3A%2F%2Ffile.52nfw.cn%2Fword%2Fobtain.php%3Fuser%3D111111%26id%3D1&insert=false&config=https%3A%2F%2Fcdn.staticaly.com%2Fgh%2Ffengguowudi%2Fini%2Fmain%2Fjess-sjgz.ini&emoji=true&list=false&udp=false&tfo=false&expand=true&scv=false&fdn=false&new_name=true
 
 
@@ -27,7 +26,7 @@ ClashForAndroid
 https://www.123pan.com/s/EAsRVv-shp93
 
 
-=====V2ray
+=====V2ray=====
 **52nfw
 http://file.52nfw.cn/word/obtain.php?user=111111&id=1
 
@@ -45,7 +44,7 @@ https://bulink.me/sub/p2wu7/vm
 
 
 
-=====APP:
+=====APP=====
 
 Vxx Unlimited，rat.lanzoui.com/ikM7gftkwsj
 
