@@ -3,7 +3,7 @@ https://getafreenode.com/subscribe/?uuid=0E81849E-DC75-6643-1E8B-B934291A6D56
 https://pre.paimon.gq/clash.yaml
 
 ★★★★
-白鲸
+白鲸（需要转换）
 原地址： https://raw.githubusercontent.com/Jsnzkpg/Jsnzkpg/Jsnzkpg/Jsnzkpg
 转换： https://api.dler.io/sub?target=clash&new_name=true&url=https%3A%2F%2Fraw.fastgit.org%2FJsnzkpg%2FJsnzkpg%2FJsnzkpg%2FJsnzkpg&insert=false&config=https%3A%2F%2Fraw.githubusercontent.com%2FACL4SSR%2FACL4SSR%2Fmaster%2FClash%2Fconfig%2FACL4SSR_Online.ini
 
@@ -16,9 +16,8 @@ https://raw.gitslow.tk/yu-steven/openit/main/Clash.yaml
 http://43.142.103.115:8888/down/ePFSC7ajgznY
 
 最快（需要转换）
-http://file.52nfw.cn/word/obtain.php?user=111111&id=1
-转换：
-https://sub.789.st/sub?target=clash&url=http%3A%2F%2Ffile.52nfw.cn%2Fword%2Fobtain.php%3Fuser%3D111111%26id%3D1&insert=false&config=https%3A%2F%2Fcdn.staticaly.com%2Fgh%2Ffengguowudi%2Fini%2Fmain%2Fjess-sjgz.ini&emoji=true&list=false&udp=false&tfo=false&expand=true&scv=false&fdn=false&new_name=true
+原地址： http://file.52nfw.cn/word/obtain.php?user=111111&id=1
+转换： https://sub.789.st/sub?target=clash&url=http%3A%2F%2Ffile.52nfw.cn%2Fword%2Fobtain.php%3Fuser%3D111111%26id%3D1&insert=false&config=https%3A%2F%2Fcdn.staticaly.com%2Fgh%2Ffengguowudi%2Fini%2Fmain%2Fjess-sjgz.ini&emoji=true&list=false&udp=false&tfo=false&expand=true&scv=false&fdn=false&new_name=true
 
 
 ClashForAndroid
