@@ -8,23 +8,17 @@ https://getafreenode.com/subscribe/?uuid=0E81849E-DC75-6643-1E8B-B934291A6D56
 每天10G
 https://www.dageyun2.com/
 
+https://raw.fastgit.org/ermaozi/get_subscribe/main/subscribe/clash.yml
+https://raw.fastgit.org/anaer/Sub/main/clash.yaml
+
 https://raw.gitslow.tk/yu-steven/openit/main/Clash.yaml
 http://43.142.103.115:8888/down/ePFSC7ajgznY
-http://wxshi.top:9090/clash/config
-https://proxies.bihai.cf/clash/config
-https://sspool.herokuapp.com/clash/config
-http://guobang.herokuapp.com/clash/config
-https://free.dswang.ga/clash/config
-https://hellopool.herokuapp.com/clash/config
-https://origamiboy.herokuapp.com/clash/config
 
 最快（需要转换）
 http://file.52nfw.cn/word/obtain.php?user=111111&id=1
 装换：
 https://sub.789.st/sub?target=clash&url=http%3A%2F%2Ffile.52nfw.cn%2Fword%2Fobtain.php%3Fuser%3D111111%26id%3D1&insert=false&config=https%3A%2F%2Fcdn.staticaly.com%2Fgh%2Ffengguowudi%2Fini%2Fmain%2Fjess-sjgz.ini&emoji=true&list=false&udp=false&tfo=false&expand=true&scv=false&fdn=false&new_name=true
 
-2023-3到期
-https://jetstream.site/api/v1/public/services/41618/55d7412e848eedfb93100a9c56f570f8?client=clash
 
 ClashForAndroid
 https://www.123pan.com/s/EAsRVv-shp93
