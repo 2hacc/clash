@@ -6,11 +6,10 @@ https://pre.paimon.gq/clash.yaml
 白鲸（需要转换）
 原地址： https://raw.fastgit.org/Jsnzkpg/Jsnzkpg/Jsnzkpg/Jsnzkpg
 
-https://raw.fastgit.org/hkaa0/permalink/main/proxy/clash
-
 ★★★
 https://raw.fastgit.org/ermaozi/get_subscribe/main/subscribe/clash.yml
 https://raw.fastgit.org/anaer/Sub/main/clash.yaml
+https://raw.fastgit.org/hkaa0/permalink/main/proxy/clash
 
 ★★
 https://raw.gitslow.tk/yu-steven/openit/main/Clash.yaml
