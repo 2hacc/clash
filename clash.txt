@@ -2,7 +2,7 @@
 getafreenode
 https://getafreenode.com/subscribe/?uuid=0E81849E-DC75-6643-1E8B-B934291A6D56
 
-Paimon Hub
+Paimon
 https://pre.paimon.gq/clash.yaml
 
 --------------------------------------------------------------------------------
@@ -29,12 +29,13 @@ https://raw.fastgit.org/hkaa0/permalink/main/proxy/clash
 --------------------------------------------------------------------------------
 
 ★★
-https://raw.gitslow.tk/yu-steven/openit/main/Clash.yaml
-http://43.142.103.115:8888/down/ePFSC7ajgznY
+openit
+https://vercel.daycat.space/Clash.yaml
 
-52nfw（需要转换）
+十九白嫖（需要转换）
 原地址： http://file.52nfw.cn/word/obtain.php?user=111111&id=1
 
+--------------------------------------------------------------------------------
 
 ClashForAndroid
 https://www.123pan.com/s/EAsRVv-shp93
