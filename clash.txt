@@ -27,8 +27,6 @@ https://raw.fastgit.org/anaer/Sub/main/clash.yaml
 https://raw.fastgit.org/hkaa0/permalink/main/proxy/clash
 
 
-https://raw.fastgit.org//vpei/Free-Node-Merge/main/out/clash.yaml
-
 --------------------------------------------------------------------------------
 
 ★★
@@ -37,6 +35,9 @@ https://vercel.daycat.space/Clash.yaml
 
 十九白嫖（需要转换）
 原地址： http://file.52nfw.cn/word/obtain.php?user=111111&id=1
+
+opmhth
+https://raw.fastgit.org//vpei/Free-Node-Merge/main/out/clash.yaml
 
 --------------------------------------------------------------------------------
 
