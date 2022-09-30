@@ -1,6 +1,6 @@
 # clash
 
-## 免费订阅：
+## 高质量免费订阅：
 ```
 https://t.me/shenseven_bot?start=P1lv9lrq
 ```
