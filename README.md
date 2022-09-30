@@ -2,6 +2,9 @@
 
 ## 高质量免费订阅：
 ```
+https://t.me/qdyun_bot?start=rdF7izCp
+```
+```
 https://t.me/shenseven_bot?start=P1lv9lrq
 ```
 ```
