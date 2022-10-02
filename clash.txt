@@ -29,8 +29,6 @@ https://raw.fastgit.org/hkaa0/permalink/main/proxy/clash
 小猫咪
 https://alist.52qy.repl.co/d/api/free/clash.yaml
 
-kxswa
-https://v1.mk/zO2Y0fF
 
 --------------------------------------------------------------------------------
 
