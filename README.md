@@ -19,7 +19,7 @@ https://goumaituijian.xyz/
 ```
 ### Efcloud
 ```
-https://www.efcloud.cc/
+[https://www.efcloud.cc/](https://www.efcloud.cc/#/register?code=tcjjo2oX)
 ```
 ### 千叶
 ```
