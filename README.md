@@ -1,6 +1,6 @@
 # clash
 
-## 高质量免费订阅：
+## 高质量免费订阅机场：
 ### 小白云 ★★★★★
 ```
 http://by.xbygood.xyz/auth/register?code=Tqja
