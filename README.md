@@ -1,6 +1,10 @@
 # clash
 
 ## 高质量免费订阅：
+### 小白云 ★★★★★
+```
+http://by.xbygood.xyz/auth/register?code=Tqja
+```
 ### 奇点 ★★★★★
 ```
 https://t.me/qdyun_bot?start=rdF7izCp
