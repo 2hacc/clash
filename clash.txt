@@ -29,6 +29,8 @@ https://raw.fastgit.org/hkaa0/permalink/main/proxy/clash
 小猫咪
 https://alist.52qy.repl.co/d/api/free/clash.yaml
 
+不知名（需要转换）
+https://link.jscdn.cn/1drv/aHR0cHM6Ly8xZHJ2Lm1zL3QvcyFBcWhxSnJiLXVMWE5lcmxIOWdOYUNZNnNoREk_ZT01bUVZd3c
 
 --------------------------------------------------------------------------------
 
