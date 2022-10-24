@@ -2,6 +2,9 @@
 Paimonnode
 https://pre.paimon.gq/clash.yaml
 
+Openit
+https://raw.iqiq.io/yu-steven/openit/main/Clash.yaml
+
 --------------------------------------------------------------------------------
 
 ★★★★
