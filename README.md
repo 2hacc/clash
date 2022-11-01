@@ -26,7 +26,4 @@ http://by.xbygood.xyz/auth/register?code=Tqja
 ```
 https://pre.paimon.gq/clash.yaml
 ```
-### 狗买 ★★★
-```
-https://goumaituijian.xyz/
-```
+
