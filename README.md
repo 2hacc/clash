@@ -10,10 +10,6 @@ https://t.me/qdyun_bot?start=rdF7izCp
 ```
 https://getafreenode.com/?inviter=0E81849E-DC75-6643-1E8B-B934291A6D56
 ```
-### lajicloud ★★★★★
-```
-https://520748.xyz/#/register?code=FJhujO6H
-```
 ### EMO(每月300G) ★★★★★
 ```
 https://yyds.emovpn.top/#/register?code=cm5xQYcT
