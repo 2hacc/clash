@@ -16,7 +16,7 @@ https://yyds.emovpn.top/#/register?code=cm5xQYcT
 ```
 ### 小白云 ★★★★★
 ```
-http://by.xbygood.xyz/auth/register?code=Tqja
+https://by.xbygood.xyz/#/register?code=SRhsaKMx
 ```
 ### Paimonnode ★★★
 ```
