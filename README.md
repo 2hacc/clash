@@ -1,6 +1,4 @@
-# clash
-
-## 高质量免费订阅机场网站：
+# 高质量免费订阅机场网站：
 
 ### 奇点★★★★★
 ```
@@ -23,7 +21,7 @@ https://v2.sisc.ga/index.php#/register?code=v7qspvDR
 https://jjcloud.xyz/#/register?code=h1Av1NzA
 ```
 
-## 免费机场直接订阅链接：
+# clash 免费机场直接订阅链接：
 ### Paimonnode ★★★★
 ```
 https://pre.paimon.gq/clash.yaml
@@ -44,9 +42,26 @@ https://freefq.neocities.org/free.txt
 ```
 https://kxswa.tk/clash
 ```
-
-
-
+### 二猫子 ★★
+```
+https://raw.fastgit.org/ermaozi/get_subscribe/main/subscribe/clash.yml
+```
+### anaer ★★
+```
+https://raw.fastgit.org/anaer/Sub/main/clash.yaml
+```
+### 五叶 ★★
+```
+https://raw.fastgit.org/hkaa0/permalink/main/proxy/clash
+```
+### 小猫咪 ★★
+```
+https://alist.52qy.repl.co/d/api/free/clash.yaml
+```
+### 不知名（需要转换） ★★
+```
+https://link.jscdn.cn/1drv/aHR0cHM6Ly8xZHJ2Lm1zL3QvcyFBcWhxSnJiLXVMWE5lcmxIOWdOYUNZNnNoREk_ZT01bUVZd3c
+```
 
 
 
