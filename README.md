@@ -18,4 +18,9 @@ https://yyds.emovpn.top/#/register?code=cm5xQYcT
 ```
 https://pre.paimon.gq/clash.yaml
 ```
+### JJCloud (2G白嫖,可无限重置) ★★★
+```
+https://jjcloud.xyz/#/register?code=h1Av1NzA
+```
+
 
