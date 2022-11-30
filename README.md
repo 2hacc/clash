@@ -18,9 +18,11 @@ https://yyds.emovpn.top/#/register?code=cm5xQYcT
 ```
 https://pre.paimon.gq/clash.yaml
 ```
+### 千叶neko机场（25G白嫖,可无限重置）★★★
+```
+https://v2.sisc.ga/index.php#/register?code=v7qspvDR
+```
 ### JJCloud (2G白嫖,可无限重置) ★★★
 ```
 https://jjcloud.xyz/#/register?code=h1Av1NzA
 ```
-
-
