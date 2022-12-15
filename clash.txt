@@ -2,7 +2,7 @@
 Paimonnode （已跑路）
 https://pre.paimon.gq/clash.yaml
 
-Openit
+Openit (失效)
 https://raw.iqiq.io/yu-steven/openit/main/Clash.yaml
 
 --------------------------------------------------------------------------------
