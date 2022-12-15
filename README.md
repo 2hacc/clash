@@ -16,6 +16,10 @@ https://yyds.emovpn.top/#/register?code=cm5xQYcT
 ```
 https://v2.sisc.ga/index.php#/register?code=v7qspvDR
 ```
+```
+### 机场Pro（10G白嫖,可无限重置）★★★
+https://jichang.pro/index.php/#/register?code=2rCsUPgt
+```
 ### JJCloud (2G白嫖,可无限重置) ★★★
 ```
 https://jjcloud.xyz/#/register?code=h1Av1NzA
